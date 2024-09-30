@@ -6,6 +6,26 @@ Welcome to the Materials Science and Metallurgy AI Assistant. This app leverages
 The page has these features:
 ![Features](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3027).png?raw=true)
 
+## Alloy Composition Generation
+
+![Alloy Composition Generation](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3017).png?raw=true)
+
+## Material Property Prediction
+
+![Material Property Prediction](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3018).png?raw=true)
+![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3019).png?raw=true)
+
+## Corrosion Resistance Prediction
+
+![Corrosion Resistance Prediction](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3018).png?raw=true)
+![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3019).png?raw=true)
+
+## Heat Treatment Outcome Prediction
+
+![Heat Treatment Outcome Prediction](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3018).png?raw=true)
+![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3019).png?raw=true)
+
+
 ## Features
 
 1.Alloy Composition Generation
