@@ -1,17 +1,18 @@
 # MetAIxpert - Metallurgical and Materials Science Generative AI Platform
 
-This project is an AI-driven platform for predictive analysis and optimization in materials science and metallurgy, leveraging HuggingFace's Mistral model and LangChain. It provides various tools for material property prediction, alloy composition optimization, phase diagram generation, and failure mode analysis.
+Welcome to the Materials Science and Metallurgy AI Assistant. This app leverages advanced Generative AI models to assist in predicting and optimizing material properties, especially for metallurgical applications. Developed using Streamlit, LangChain, and HuggingFace, this tool provides AI-driven insights for researchers and engineers in materials science.
 
 ## Features
 
-Material Property Prediction
-Predict material properties like tensile strength, hardness, and thermal conductivity using Generative AI.
+1.Alloy Composition Generation
+Generate optimal alloy compositions based on specific material requirements (e.g., hardness, tensile strength, thermal properties).
 
-Alloy Composition Optimization
-Generate optimal alloy compositions based on user-defined mechanical property requirements.
+2.Material Property Prediction
+Predict mechanical and thermal properties (e.g., tensile strength, hardness, thermal conductivity) of materials based on their chemical composition.
 
-Phase Diagram Generation
-Predict stable material phases at different compositions and temperatures, providing insights into phase changes.
+3.Corrosion Resistance Prediction
+Analyze and predict a material's resistance to corrosion in various environments and recommend alloying elements for improved resistance.
 
-Failure Mode and Corrosion Resistance Analysis
-Assess material reliability by predicting failure modes and corrosion resistance based on input data.
+4.Heat Treatment Outcome Prediction
+Estimate the effects of heat treatment on the mechanical properties of metals, predicting changes in hardness, ductility, and phase composition.
+
