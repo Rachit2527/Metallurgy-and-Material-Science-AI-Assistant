@@ -4,26 +4,30 @@ Welcome to the Materials Science and Metallurgy AI Assistant. This app leverages
 
 ## OVERVIEW
 The page has these features:
-![Features](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3027).png?raw=true)
+![Features](https://github.com/Rachit2527/Metallurgy-and-Material-Science-AI-Assistant/blob/main/Screenshot%20(3044).png?raw=true)
 
 ## Alloy Composition Generation
 
-![Alloy Composition Generation](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3017).png?raw=true)
+![Alloy Composition Generation](https://github.com/Rachit2527/Metallurgy-and-Material-Science-AI-Assistant/blob/main/Screenshot%20(3045).png?raw=true)
+![](https://github.com/Rachit2527/Metallurgy-and-Material-Science-AI-Assistant/blob/main/Screenshot%20(3046).png?raw=true)
+![](https://github.com/Rachit2527/Metallurgy-and-Material-Science-AI-Assistant/blob/main/Screenshot%20(3047).png?raw=true)
+
+
+
 
 ## Material Property Prediction
 
-![Material Property Prediction](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3018).png?raw=true)
-![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3019).png?raw=true)
+![Material Property Prediction](https://github.com/Rachit2527/Metallurgy-and-Material-Science-AI-Assistant/blob/main/Screenshot%20(3048).png?raw=true)
+![](https://github.com/Rachit2527/Metallurgy-and-Material-Science-AI-Assistant/blob/main/Screenshot%20(3049).png?raw=true)
 
 ## Corrosion Resistance Prediction
 
-![Corrosion Resistance Prediction](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3018).png?raw=true)
-![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3019).png?raw=true)
+![Corrosion Resistance Prediction](https://github.com/Rachit2527/Metallurgy-and-Material-Science-AI-Assistant/blob/main/Screenshot%20(3050).png?raw=true)
 
 ## Heat Treatment Outcome Prediction
 
-![Heat Treatment Outcome Prediction](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3018).png?raw=true)
-![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3019).png?raw=true)
+![Heat Treatment Outcome Prediction](https://github.com/Rachit2527/Metallurgy-and-Material-Science-AI-Assistant/blob/main/Screenshot%20(3051).png?raw=true)
+![](https://github.com/Rachit2527/Metallurgy-and-Material-Science-AI-Assistant/blob/main/Screenshot%20(3052).png?raw=true)
 
 
 ## Features
