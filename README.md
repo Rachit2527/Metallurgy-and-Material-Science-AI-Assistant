@@ -2,6 +2,10 @@
 
 Welcome to the Materials Science and Metallurgy AI Assistant. This app leverages advanced Generative AI models to assist in predicting and optimizing material properties, especially for metallurgical applications. Developed using Streamlit, LangChain, and HuggingFace, this tool provides AI-driven insights for researchers and engineers in materials science.
 
+## OVERVIEW
+The page has these features:
+![Features](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3027).png?raw=true)
+
 ## Features
 
 1.Alloy Composition Generation
