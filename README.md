@@ -16,3 +16,10 @@ Analyze and predict a material's resistance to corrosion in various environments
 4.Heat Treatment Outcome Prediction
 Estimate the effects of heat treatment on the mechanical properties of metals, predicting changes in hardness, ductility, and phase composition.
 
+## Tech Stack
+
+Streamlit: Web-based interface for seamless interaction.
+LangChain: Model orchestration and natural language processing pipeline.
+HuggingFace: Mistral-7B Instruct model for generating insights and making predictions.
+Python: Backend logic and model integration.
+
