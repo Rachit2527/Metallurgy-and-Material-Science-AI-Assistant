@@ -19,7 +19,10 @@ Estimate the effects of heat treatment on the mechanical properties of metals, p
 ## Tech Stack
 
 Streamlit: Web-based interface for seamless interaction.
+
 LangChain: Model orchestration and natural language processing pipeline.
+
 HuggingFace: Mistral-7B Instruct model for generating insights and making predictions.
+
 Python: Backend logic and model integration.
 
